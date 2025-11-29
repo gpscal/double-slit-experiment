@@ -1,0 +1,20 @@
+# Core numerical computation
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.18.0
+
+# Optional GPU acceleration (install separately if needed)
+# cupy-cuda11x>=13.0.0  # For CUDA 11.x
+# cupy-cuda12x>=13.0.0  # For CUDA 12.x
+
+# Interactive notebooks
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0

@@ -1,5 +1,3 @@
 venv
-
-STATUS.md
-QUICKSTART.md
-requirements.txt
+quantum_double_slit/visualization/__pycache__
+quantum_double_slit/core/__pycache__
